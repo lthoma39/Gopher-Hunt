@@ -1,6 +1,10 @@
 ## Gopher-Hunt
 A game of gopher hunting as an Android app
 
+<img src=http://g.recordit.co/zhPjMrVlde.gif width=200><br>
+
+<img src=http://g.recordit.co/uInEX9eMSA.gif width=200><br>
+
 ## Project Description
 You are to design and code a game of gopher hunting as an Android app. Imagine you are in a field occupied
 by a gopher. The gopher could be hiding in one of any number of holes in the field’s ground. The goal of the
