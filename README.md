@@ -1,8 +1,10 @@
 ## Gopher-Hunt
 A game of gopher hunting as an Android app
 
+# Turn Based Mode
 <img src=http://g.recordit.co/zhPjMrVlde.gif width=200><br>
 
+# Continuous Mode
 <img src=http://g.recordit.co/uInEX9eMSA.gif width=200><br>
 
 ## Project Description
